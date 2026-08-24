@@ -1,1 +1,2 @@
 Bu benim ilk git denemem.
+Ikinci satir: guncelleme denemesi.
